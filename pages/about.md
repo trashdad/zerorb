@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 #### Why Create This?
 
-I've been playing fantasy football since 2013. The very first player I ever drafted, ever, was Tom Brady. I had largely finished my hiatus from the NFL after watching my beloved Bills flouder for a decade. Drafting a QB early was not a good move, but it did highlight the need for succinct and easy to digest "soundbites" for almost any fantasy team manager out there. 
+I've been playing fantasy football since 2013. The very first player I ever drafted, ever, was Tom Brady. I had largely finished my hiatus from the NFL after watching my beloved Bills flounder for a decade. Drafting a QB early was not a good move, but it did highlight the need for succinct and easy to digest "soundbites" for almost any fantasy team manager out there. 
 
 Granted, I did try to do some last-minute research before drafting - but most of the articles were written as if I knew who all these players were. Things like [beersheets](https://footballabsurdity.com/beersheet-request-form/) largely didn't exist or I could not find them. There were some good resources back then, but they required a lot of background knowledge of the game of football and required a large time investment.
 
