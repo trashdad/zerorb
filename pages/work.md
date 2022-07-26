@@ -7,28 +7,20 @@ eleventyNavigation:
   order: 3
   key: Resources
 ---
-### JJ Zachariason
+<p>&nbsp;</p>
 
-#### https://lateround.com/
+![Late Round](https://lateround.com/wp-content/uploads/2022/01/logo_small.png)
 
-**Previously Editor-in-Chief of numberFire and FanDuel** 
+# [JJ Zachariason](https://lateround.com)
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+Popularized the notion of finding value in drafting QBs in later rounds the prevent spending earlier picks on QBs. Strikes a perfect balance of spreadsheet technical analysis and goofy shenanigans. I highly recommend his podcast
 
-#### Microsoft
+![ETR](https://cdn.establishtherun.com/wp-content/uploads/2019/07/07114155/EstablishTheRun_OnBlack-Copy.jpg)
 
-**Software Engineer** *(2014 - 2019)*
+# [Establish the Run](https://establishtherun.com/)
 
-* Maintained legacy Internet Explorer for 5 long years
+* [Evan Silva](https://twitter.com/evansilva) 
+* [Adam Levitan](https://twitter.com/adamlevitan)
+* [Mike Leone](https://twitter.com/2Hats1Mike)
 
-- - -
-
-### 📚 Education:
-
-#### Harvard
-
-**PhD Astronomy** *(2014 - 2015)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+One of the best overall fantasy operations on the market as of 2022. Every aspect of NFL football gaming available here. Very active on Twitter and great podcast. Highly recommend.
