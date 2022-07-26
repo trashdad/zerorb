@@ -2,10 +2,10 @@
 title: Resources
 subtitle: "Some of my favorite people, places, and things:"
 date: 2021-03-15T06:33:06.713Z
-permalink: /work/index.html
+permalink: /resources/index.html
 eleventyNavigation:
   order: 3
-  key: Work
+  key: Resources
 ---
 ### JJ Zachariason
 
