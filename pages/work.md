@@ -1,18 +1,17 @@
 ---
-title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+title: Resources
+subtitle: "Some of my favorite people, places, and things:"
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
   order: 3
   key: Work
 ---
-### 👩‍💻 Experience:
+### JJ Zachariason
 
-#### Tesla
+#### https://lateround.com/
 
-**Senior Software Engineer** *(2019 - Current)*
+**Previously Editor-in-Chief of numberFire and FanDuel** 
 
 * Collaborated with Elon Musk on 80,000 unique projects
 * Invented the Cyber Truck
