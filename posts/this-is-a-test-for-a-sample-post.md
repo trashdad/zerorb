@@ -6,8 +6,14 @@ summary: This is the body of the text.
 tags:
   - post
 ---
+![](/static/img/profile.png)
+
 asldfkj\
 \
 
 * bullet 1\
 * bullet 2
+
+
+
+![](/static/img/logo.png)
