@@ -11,9 +11,7 @@ tags:
 asldfkj\
 \
 
-* bullet 1\
-* bullet 2
-
-
+* [bullet 1\](https://google.com)
+* [bullet 2](https://google.com)
 
 ![](/static/img/logo.png)
